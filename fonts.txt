@@ -1,0 +1,5 @@
+fontname - text
+
+Anke     - powered by iothinc,ends in
+arial    - signin to continue,doodle art  by jim gesham
+gilroy   - welcome back
